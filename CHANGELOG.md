@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/ablokland/rust-test/compare/v0.0.7...v0.1.0) (2023-02-20)
+
+
+### Features
+
+* debug ls statement ([b64f049](https://github.com/ablokland/rust-test/commit/b64f0495e9dfd8121a561a7a467ccebec4af361f))
+
 ## [0.0.7](https://github.com/ablokland/rust-test/compare/v0.0.6...v0.0.7) (2023-02-20)
 
 
