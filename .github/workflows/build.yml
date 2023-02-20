@@ -47,8 +47,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ env.RG_VERSION }}
-          release_name: ${{ env.RG_VERSION }}
+          title: ${{ env.RG_VERSION }}
 
   build-release:
     name: build-release
